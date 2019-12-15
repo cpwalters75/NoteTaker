@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/cpwalters75/NoteTaker/issues"
   },
-  "homepage": "https://github.com/cpwalters75/NoteTaker#readme"
+  "homepage": "https://github.com/cpwalters75/NoteTaker#readme",
+  "devDependencies": {}
 }
