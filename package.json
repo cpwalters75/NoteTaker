@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mysql": "^2.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpwalters75/NoteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cpwalters75/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/cpwalters75/NoteTaker#readme"
+}
